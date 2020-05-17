@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DavidPhotoGraph/static/css/main.3252ad2b.chunk.css",
+    "main.css": "/DavidPhotoGraph/static/css/main.c53c4ef8.chunk.css",
     "main.js": "/DavidPhotoGraph/static/js/main.6ce50e2c.chunk.js",
     "main.js.map": "/DavidPhotoGraph/static/js/main.6ce50e2c.chunk.js.map",
     "runtime-main.js": "/DavidPhotoGraph/static/js/runtime-main.7a0127de.js",
@@ -8,16 +8,16 @@
     "static/js/2.36296d39.chunk.js": "/DavidPhotoGraph/static/js/2.36296d39.chunk.js",
     "static/js/2.36296d39.chunk.js.map": "/DavidPhotoGraph/static/js/2.36296d39.chunk.js.map",
     "index.html": "/DavidPhotoGraph/index.html",
-    "precache-manifest.9abf2d1aaa8db5c0684cf0b2ba248b3b.js": "/DavidPhotoGraph/precache-manifest.9abf2d1aaa8db5c0684cf0b2ba248b3b.js",
+    "precache-manifest.2a6ca02c229ae5d3ab728458d3ecc2f1.js": "/DavidPhotoGraph/precache-manifest.2a6ca02c229ae5d3ab728458d3ecc2f1.js",
     "service-worker.js": "/DavidPhotoGraph/service-worker.js",
-    "static/css/main.3252ad2b.chunk.css.map": "/DavidPhotoGraph/static/css/main.3252ad2b.chunk.css.map",
+    "static/css/main.c53c4ef8.chunk.css.map": "/DavidPhotoGraph/static/css/main.c53c4ef8.chunk.css.map",
     "static/js/2.36296d39.chunk.js.LICENSE.txt": "/DavidPhotoGraph/static/js/2.36296d39.chunk.js.LICENSE.txt",
     "static/media/david.jpg": "/DavidPhotoGraph/static/media/david.bd5abd26.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a0127de.js",
     "static/js/2.36296d39.chunk.js",
-    "static/css/main.3252ad2b.chunk.css",
+    "static/css/main.c53c4ef8.chunk.css",
     "static/js/main.6ce50e2c.chunk.js"
   ]
 }
