@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DavidPhotoGraph/static/css/main.f898acb3.chunk.css",
-    "main.js": "/DavidPhotoGraph/static/js/main.8cc0f150.chunk.js",
-    "main.js.map": "/DavidPhotoGraph/static/js/main.8cc0f150.chunk.js.map",
+    "main.css": "/DavidPhotoGraph/static/css/main.9ea2b565.chunk.css",
+    "main.js": "/DavidPhotoGraph/static/js/main.1d34866b.chunk.js",
+    "main.js.map": "/DavidPhotoGraph/static/js/main.1d34866b.chunk.js.map",
     "runtime-main.js": "/DavidPhotoGraph/static/js/runtime-main.7a0127de.js",
     "runtime-main.js.map": "/DavidPhotoGraph/static/js/runtime-main.7a0127de.js.map",
     "static/js/2.36296d39.chunk.js": "/DavidPhotoGraph/static/js/2.36296d39.chunk.js",
     "static/js/2.36296d39.chunk.js.map": "/DavidPhotoGraph/static/js/2.36296d39.chunk.js.map",
     "index.html": "/DavidPhotoGraph/index.html",
-    "precache-manifest.74a5fef1b5b82a66719f6e58978616ba.js": "/DavidPhotoGraph/precache-manifest.74a5fef1b5b82a66719f6e58978616ba.js",
+    "precache-manifest.842173e7a1ce080452677ea4288e376a.js": "/DavidPhotoGraph/precache-manifest.842173e7a1ce080452677ea4288e376a.js",
     "service-worker.js": "/DavidPhotoGraph/service-worker.js",
-    "static/css/main.f898acb3.chunk.css.map": "/DavidPhotoGraph/static/css/main.f898acb3.chunk.css.map",
+    "static/css/main.9ea2b565.chunk.css.map": "/DavidPhotoGraph/static/css/main.9ea2b565.chunk.css.map",
     "static/js/2.36296d39.chunk.js.LICENSE.txt": "/DavidPhotoGraph/static/js/2.36296d39.chunk.js.LICENSE.txt",
     "static/media/header.jpg": "/DavidPhotoGraph/static/media/header.82ce7e29.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a0127de.js",
     "static/js/2.36296d39.chunk.js",
-    "static/css/main.f898acb3.chunk.css",
-    "static/js/main.8cc0f150.chunk.js"
+    "static/css/main.9ea2b565.chunk.css",
+    "static/js/main.1d34866b.chunk.js"
   ]
 }
